@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="7",Первый канал FHD
+#EXTINF:0 tvg-rec="7",Первый канал
 #EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2402/index.m3u8
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/127/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал HD
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/204/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал HD 50
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/15131/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый канал
+#EXTINF:0 tvg-rec="7",Первый канал FHD
 #EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/127/index.m3u8
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2402/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал (+2)
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/714/index.m3u8
@@ -26,15 +26,15 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6037/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +8
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6050/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия 1 FHD
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2409/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия 1 HD
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/205/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 1
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/504/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1 HD
+#EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/205/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия 1 FHD
+#EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2409/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +2
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6011/index.m3u8
@@ -47,18 +47,12 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6038/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +8
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6051/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ HD
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/213/index.m3u8
-#EXTINF:0 tvg-rec="7",Мир
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/214/index.m3u8
-#EXTINF:0 tvg-rec="0",Мир HD
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18037/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/501/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/213/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ (+2)
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/713/index.m3u8
@@ -101,15 +95,15 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6040/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +8
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6054/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ FHD
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2417/index.m3u8
-#EXTINF:0 tvg-rec="7",ТНТ HD
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/237/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/502/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ HD
+#EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/237/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ FHD
+#EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2417/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ (+2)
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/717/index.m3u8
@@ -131,12 +125,12 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6029/index.m3u8
 #EXTINF:0 tvg-rec="0",СТС +7
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6043/index.m3u8
-#EXTINF:0 tvg-rec="7",Рен ТВ HD
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2024/index.m3u8
 #EXTINF:0 tvg-rec="7",Рен ТВ
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/128/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
+#EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2024/index.m3u8
 #EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/747/index.m3u8
@@ -148,7 +142,13 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6028/index.m3u8
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6042/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир
 #EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/214/index.m3u8
+#EXTINF:0 tvg-rec="7",Мир
+#EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/113/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир HD
+#EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18037/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир +2
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6019/index.m3u8
@@ -182,12 +182,12 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6047/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Love
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/103/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ3 HD
-#EXTGRP:Общие
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/5033/index.m3u8
 #EXTINF:0 tvg-rec="7",ТВ3
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/508/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3 HD
+#EXTGRP:Общие
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/5033/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ3 +2
 #EXTGRP:Общие
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6017/index.m3u8
@@ -1157,18 +1157,36 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14221/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Гарри Поттер 
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14230/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Кухня
-#EXTGRP:Кино
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18199/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Секс в большом городе
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14224/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTINF:0 tvg-rec="0",VF Кухня
 #EXTGRP:Кино
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18178/index.m3u8
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18199/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Disney Movie
+#EXTGRP:Кино
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/15010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Теория большого взрыва
+#EXTGRP:Кино
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/15009/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox
+#EXTGRP:Кино
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6516/index.m3u8
+#EXTINF:0 tvg-rec="7",Fox HD
+#EXTGRP:Кино
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/219/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox Life
+#EXTGRP:Кино
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9232/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Life HD
+#EXTGRP:Кино
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14003/index.m3u8
 #EXTINF:0 tvg-rec="0",LIBERTY ТУРК ФИЛЬМ 4К
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19303/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:Кино
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18178/index.m3u8
 #EXTINF:0 tvg-rec="0",LIBERTY МиМ FHD
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19306/index.m3u8
@@ -1337,9 +1355,6 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2097/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia Premium HD
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/229/index.m3u8
-#EXTINF:0 tvg-rec="7",Fox HD
-#EXTGRP:Кино
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/219/index.m3u8
 #EXTINF:0 tvg-rec="7",Hollywood HD
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/209/index.m3u8
@@ -1427,10 +1442,10 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/547/index.m3u8
 #EXTINF:0 tvg-rec="7",Еврокино
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/549/index.m3u8
-#EXTINF:0 tvg-rec="7",Fox Russia
+#EXTINF:0 tvg-rec="7",Кинеко
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/550/index.m3u8
-#EXTINF:0 tvg-rec="7",Fox Life
+#EXTINF:0 tvg-rec="7",Сапфир 
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/553/index.m3u8
 #EXTINF:0 tvg-rec="7",Дом Кино
@@ -1586,7 +1601,7 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6387/index.m3u8
 #EXTINF:0 tvg-rec="0",TV1000 Русское Кино HD
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6388/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox Life HD
+#EXTINF:0 tvg-rec="3",Сапфир HD
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6389/index.m3u8
 #EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
@@ -1715,7 +1730,7 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9133/index.m3u8
 #EXTINF:0 tvg-rec="3",Еврокино orig
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9134/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox Russia orig
+#EXTINF:0 tvg-rec="3",Кинеко HD
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9135/index.m3u8
 #EXTINF:0 tvg-rec="3",Дом Кино orig
@@ -1805,9 +1820,6 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9230/index.m3u8
 #EXTINF:0 tvg-rec="3",Кинокомедия orig
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9231/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox Life orig
-#EXTGRP:Кино
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9232/index.m3u8
 #EXTINF:0 tvg-rec="3",Amedia Premium orig
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9233/index.m3u8
@@ -3353,27 +3365,90 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19414/index.m3u8
 #EXTINF:0 tvg-rec="0",Citrus Live HD (C-Live HD)
 #EXTGRP:Кино
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19436/index.m3u8
+#EXTINF:0 tvg-rec="0",Cinneman Premium HD
+#EXTGRP:Кино
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20112/index.m3u8
 #EXTINF:0 tvg-rec="7",VF Match Ultra 4K
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2002/index.m3u8
-#EXTINF:0 tvg-rec="0",Наш Спорт 1
+#EXTINF:0 tvg-rec="7",Матч ТВ
 #EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7360/index.m3u8
-#EXTINF:0 tvg-rec="0",Наш Спорт 2
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/535/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ HD
 #EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7361/index.m3u8
-#EXTINF:0 tvg-rec="0",Наш Спорт 3
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/212/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ FHD
 #EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7362/index.m3u8
-#EXTINF:0 tvg-rec="0",Наш Спорт 4
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2413/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер
 #EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7363/index.m3u8
-#EXTINF:0 tvg-rec="0",Наш Спорт 5
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/531/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер HD
 #EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7364/index.m3u8
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/220/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Премьер FHD
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2414/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/124/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/222/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/5072/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2407/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/530/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/211/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2420/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/522/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/206/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/5071/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2408/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/529/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/225/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра FHD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2406/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/528/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/207/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Планета
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/123/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Страна
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/107/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Страна HD
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19219/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Боец
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/150/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч +2
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6012/index.m3u8
@@ -3383,81 +3458,24 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6023/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч +8
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6052/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 2
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7361/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 1
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7360/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 3
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7362/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 4
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7363/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 5
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/7364/index.m3u8
 #EXTINF:0 tvg-rec="3",Super Tennis HD
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/6079/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Премьер HD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/220/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Премьер
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/531/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч ТВ FHD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2413/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч ТВ HD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/212/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч ТВ
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/535/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2407/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/222/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/5072/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 1
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/124/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2420/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/211/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 2
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/530/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2408/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/206/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/5071/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Футбол 3
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/522/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Игра FHD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2406/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Игра HD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/225/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Игра
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/529/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Арена HD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/207/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Арена
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/528/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Страна
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/107/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Планета
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/123/index.m3u8
-#EXTINF:0 tvg-rec="7",Матч! Боец
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/150/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 HD NL
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/4004/index.m3u8
@@ -3983,9 +4001,6 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19203/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 4 HD NL
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19204/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч! Страна HD
-#EXTGRP:Спорт
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19219/index.m3u8
 #EXTINF:0 tvg-rec="0",Матч! Боец HD
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19221/index.m3u8
@@ -4091,9 +4106,81 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20085/index.m3u8
 #EXTINF:0 tvg-rec="0",FUSSBALL.TV 3 FIFA WM 2022D DE
 #EXTGRP:Спорт
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20086/index.m3u8
-#EXTINF:0 tvg-rec="0",PROKOP TV HORROR HD
+#EXTINF:0 tvg-rec="3",Fint Ga 1
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20091/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 2
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20092/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 3
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20093/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 1
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20094/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 2
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20095/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 3
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20096/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 4
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20097/index.m3u8
+#EXTINF:0 tvg-rec="3",Pimple TV 5
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20098/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 1
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20099/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 2
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20103/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 3
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20104/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 4
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20105/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 5
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20106/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 6
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20107/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 7
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20108/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop Sport Online 8
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20109/index.m3u8
+#EXTINF:0 tvg-rec="0",Prokop Sport Online 9
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20110/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 10
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20100/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 11
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20101/index.m3u8
+#EXTINF:0 tvg-rec="3",Prokop Sport Online 12
+#EXTGRP:Спорт
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20102/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Modern Talking
 #EXTGRP:Музыка
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18145/index.m3u8
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Britney Spears
+#EXTGRP:Музыка
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14005/index.m3u8
+#EXTINF:0 tvg-rec="7",MTV Live HD
+#EXTGRP:Музыка
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/221/index.m3u8
+#EXTINF:0 tvg-rec="3",Жара HD
+#EXTGRP:Музыка
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2129/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV Россия HD
+#EXTGRP:Музыка
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2130/index.m3u8
 #EXTINF:0 tvg-rec="0",Best Live Performances
 #EXTGRP:Музыка
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18151/index.m3u8
@@ -4112,15 +4199,9 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18163/index.m3u8
 #EXTINF:0 tvg-rec="0",YOSSO TV Music Hits
 #EXTGRP:Музыка
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14179/index.m3u8
-#EXTINF:0 tvg-rec="3",MTV Россия HD
+#EXTINF:0 tvg-rec="0",PROKOP TV HORROR HD
 #EXTGRP:Музыка
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2130/index.m3u8
-#EXTINF:0 tvg-rec="7",MTV Live HD
-#EXTGRP:Музыка
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/221/index.m3u8
-#EXTINF:0 tvg-rec="3",Жара HD
-#EXTGRP:Музыка
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2129/index.m3u8
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18145/index.m3u8
 #EXTINF:0 tvg-rec="7",ЖАРА
 #EXTGRP:Музыка
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/105/index.m3u8
@@ -4742,6 +4823,15 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20000/index.m3u8
 #EXTINF:0 tvg-rec="0",KLI_Concert_FHD
 #EXTGRP:Музыка
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20049/index.m3u8
+#EXTINF:0 tvg-rec="0",National Geographic 
+#EXTGRP:Познавательные
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14000/index.m3u8
+#EXTINF:0 tvg-rec="0",National Geographic HD
+#EXTGRP:Познавательные
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14001/index.m3u8
+#EXTINF:0 tvg-rec="0",National Geographic HD orig
+#EXTGRP:Познавательные
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14002/index.m3u8
 #EXTINF:0 tvg-rec="3",Наша тема orig
 #EXTGRP:Познавательные
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/9286/index.m3u8
@@ -4898,10 +4988,10 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/5001/index.m3u8
 #EXTINF:0 tvg-rec="3",Наша Сибирь 4K
 #EXTGRP:Познавательные
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/4003/index.m3u8
-#EXTINF:0 tvg-rec="3",National Geographic FHD
+#EXTINF:0 tvg-rec="3",TERRA HD
 #EXTGRP:Познавательные
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/2416/index.m3u8
-#EXTINF:0 tvg-rec="7",National Geographic HD
+#EXTINF:0 tvg-rec="7",TERRA
 #EXTGRP:Познавательные
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/230/index.m3u8
 #EXTINF:0 tvg-rec="7",TLC HD
@@ -5501,12 +5591,18 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19412/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Открытия HD
 #EXTGRP:Познавательные
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/19415/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Концерты
+#EXTGRP:Развлекательные
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14159/index.m3u8
 #EXTINF:0 tvg-rec="0",VF КВН
 #EXTGRP:Развлекательные
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/14170/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Уральские пельмени
 #EXTGRP:Развлекательные
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/18198/index.m3u8
+#EXTINF:0 tvg-rec="3",Солнце
+#EXTGRP:Развлекательные
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/872/index.m3u8
 #EXTINF:0 tvg-rec="3",MyZen TV 4K
 #EXTGRP:Развлекательные
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/5002/index.m3u8
@@ -6182,9 +6278,6 @@ http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/1064/index.m3u8
 #EXTINF:0 tvg-rec="3",Barely legal
 #EXTGRP:Взрослые
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/871/index.m3u8
-#EXTINF:0 tvg-rec="3",BRAZZERS TV Europe 2
-#EXTGRP:Взрослые
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/872/index.m3u8
 #EXTINF:0 tvg-rec="3",Sexto Senso
 #EXTGRP:Взрослые
 http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/875/index.m3u8
